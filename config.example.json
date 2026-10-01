@@ -1,0 +1,6 @@
+{
+  "meeting_number": "123 456 789",
+  "guest_name": "Example Guest",
+  "guest_email": "guest@example.com",
+  "meeting_duration_minutes": 120
+}
